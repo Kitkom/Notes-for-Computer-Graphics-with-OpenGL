@@ -8,6 +8,8 @@
 
 #include <windows.h>
 #include <GL/glut.h>
+#include <math.h>
+#include <iostream>
 #include <stdlib.h>
 
 using namespace std;
